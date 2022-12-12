@@ -1,2 +1,2 @@
-# Knapsack-Problem-GA
-Knapsack Problem solved using a Genetic Algorithm. The GA is suitable for any problem with a binary cost function.
+# Genetic Algorithm
+This Genetic Algorithm is suitable for any problem with a binary cost function. It is tested using the Knapsack problem.
